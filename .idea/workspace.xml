@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="630cdfa1-d251-4858-a6ce-e2c873dd7461" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1XR9y1icBv2XPcnh1SEoXsqFpAl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="630cdfa1-d251-4858-a6ce-e2c873dd7461" name="Default Changelist" comment="" />
+      <created>1580998290126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580998290126</updated>
+      <workItem from="1580998291450" duration="8779000" />
+      <workItem from="1581366228640" duration="926000" />
+      <workItem from="1581520005324" duration="24760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../vue-testing-workshop/node_modules/@vue/cli-plugin-unit-jest/generator/template/tests/unit/example.spec.js" />
+        <option value="$PROJECT_DIR$/../ECOMMERCE/b2c-ecom-th-component-library/node_modules/wait-for-expect/lib/index.d.js" />
+        <option value="$PROJECT_DIR$/../ECOMMERCE/b2c-ecom-th-component-library/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/../ECOMMERCE/b2c-ecom-th-component-library/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="703" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1581690346023">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="703" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1581690346023" />
+  </component>
+</project>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b75cb5ae-e64a-4362-8950-25e5d4f2551f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xkrllfq5wm4A7uGhDJTqTruXVr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b75cb5ae-e64a-4362-8950-25e5d4f2551f" name="Default Changelist" comment="" />
+      <created>1581601086987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581601086987</updated>
+      <workItem from="1581601089203" duration="3067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../vue-testing-workshop/node_modules/@vue/cli-plugin-unit-jest/generator/template/tests/unit/example.spec.js" />
+        <option value="$PROJECT_DIR$/../../ECOMMERCE/b2c-ecom-th-component-library/node_modules/wait-for-expect/lib/index.d.js" />
+        <option value="$PROJECT_DIR$/../../ECOMMERCE/b2c-ecom-th-component-library/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/../../ECOMMERCE/b2c-ecom-th-component-library/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+      </list>
+    </option>
+  </component>
+</project>

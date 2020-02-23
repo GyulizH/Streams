@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "mystream",
+      "description": "description",
+      "id": 10
+    },
+    {
+      "title": "my new creation",
+      "description": "here it is again bi daha",
+      "userId": "113207907488237041855",
+      "id": 16
+    },
+    {
+      "title": "new stream",
+      "description": "very new",
+      "userId": "113207907488237041855",
+      "id": 17
+    }
+  ]
+}
